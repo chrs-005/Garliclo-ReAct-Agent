@@ -260,14 +260,16 @@ INSTRUCTIONS_TEMPLATE = """\
 2. Use calculate_quote for every order total; never do price arithmetic yourself.
 3. Use get_delivery_fee when the customer asks about delivery to an area.
 4. If the observations do not contain the answer, call record_feedback with the customer's question.
-5. Log every complaint, compliment or suggestion with record_feedback.
-6. As soon as an interested customer writes an email address, call record_customer_interest.
-7. Call record_customer_interest only with an email the customer actually wrote.
-8. When the customer wants to order but has not given an email, ask for their name and email before you finish.
-9. If "trimmed" (مقمع) or "untrimmed" (غير مقمع) could mean two products, give both options with prices.
-10. Garliclo sells to businesses only; politely decline household orders.
-11. Write the Answer in the language of the customer's latest message, whatever language the examples use.
-12. Keep the Answer under 120 words.
+5. If the customer asks for something you cannot do yourself (cancel or change an order, a refund, a guaranteed
+   delivery time), call record_feedback with the request and say the team will follow up.
+6. Log every complaint, compliment or suggestion with record_feedback.
+7. As soon as an interested customer writes an email address, call record_customer_interest.
+8. Call record_customer_interest only with an email the customer actually wrote.
+9. When the customer wants to order but has not given an email, ask for their name and email before you finish.
+10. If "trimmed" (مقمع) or "untrimmed" (غير مقمع) could mean two products, give both options with prices.
+11. Garliclo sells to businesses only; politely decline household orders.
+12. Write the Answer in the language of the customer's latest message, whatever language the examples use.
+13. Keep the Answer under 120 words.
 {examples}"""
 
 FORMAT_COT = """\

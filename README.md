@@ -44,14 +44,14 @@ flowchart LR
 
 ![Leaderboard](experiments/leaderboard.png)
 
-* **Best:** Friendly Advisor + Chain-of-Thought + few-shot + instructions block. It scored 93.7 (CI 89.8–96.7) over
-  45 runs. Its configuration variants are statistical ties: identical repeats differ by 4.7 points on average.
-* **Persona-task fit:** each persona scored best on its own task. The Strict Expert is rated 4.47/5 on quotes but
-  2.00 on support; the Cautious Helper 4.80 on support but 2.33 on quotes.
-* **Instructions block:** removing it dropped success from 96% to 60%, and logging of complaints and unanswered
-  questions fell to 0%, while the judge still rated its tone highly.
-* **Prompting:** dropping Chain-of-Thought (76.4) or the few-shot examples (84.2) clearly hurt.
-* **Model type:** `gpt-4.1-nano` fell to 60% success; `gpt-4o-mini` made 13 format errors.
+* **Best:** Friendly Advisor + Chain-of-Thought + few-shot + instructions block. It scored 93.9 (CI 92.5–95.3) over
+  45 runs with 100% of checks passed. Its configuration variants are ties within the 1.5-point run-to-run noise.
+* **Persona-task fit:** each persona scored best on its own task. The Strict Expert is rated 4.60/5 on quotes but
+  2.07 on support; the Cautious Helper 4.80 on support but 2.33 on quotes.
+* **Instructions block:** removing it dropped success from 100% to 67% and logging to 0%, while the judge still rated
+  its tone highly.
+* **Prompting:** dropping Chain-of-Thought (83.3) or the few-shot examples (80.0) clearly hurt.
+* **Model type:** `gpt-4.1-nano` fell to 67% success; `gpt-4o-mini` made 13 format errors.
 * **top-k:** not offered by OpenAI, and ignored by the current Gemini API: top_k = 1 still gave 5 different outputs.
 
 All runs are logged in [`experiments/`](experiments/). The full analysis and reflection are in the notebook.
