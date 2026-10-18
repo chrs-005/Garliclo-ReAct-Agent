@@ -1,0 +1,65 @@
+{
+ "temperature 0": [
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!"
+ ],
+ "temperature 0.7": [
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your culinary creations with our fresh, quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier— we're excited to help elevate your culinary creations with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to partner with you to elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo—your new go-to Lebanese air-peeled garlic supplier, ready to elevate your restaurant's dishes with premium quality and authentic flavor!",
+  "Welcome to Garliclo, your new partner in bringing fresh, premium Lebanese air-peeled garlic to elevate your restaurant's flavors!"
+ ],
+ "temperature 1.3": [
+  "Welcome, and we're thrilled you've discovered Garliclo—your restaurant's new partner in crafting authentic Lebanese flavors with our premium air-peeled garlic!",
+  "Welcome to Garliclo—your new trusted partner in sourcing authentic Lebanese air-peeled garlic to elevate your restaurant's flavors to the next level!",
+  "Welcome to Garliclo, the perfect partner to elevate your dishes with our premium Lebanese air-peeled garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—hyped to help you elevate your restaurant’s flavor with our fresh, authentic garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—delighting your kitchen with authentic quality and effortless convenience!"
+ ],
+ "temp 1.0 + top_p 0.3": [
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!"
+ ],
+ "temp 0.7 + penalties 1.0": [
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we’re excited to help elevate your restaurant’s flavors with our fresh, high-quality garlic!",
+  "Welcome to Garliclo—your new partner in serving fresh, premium Lebanese air-peeled garlic that will elevate your restaurant's flavors and delight your customers!",
+  "Welcome to Garliclo—your new partner in delivering fresh, high-quality Lebanese air-peeled garlic that will elevate your restaurant's flavors and delight your customers!",
+  "Welcome to Garliclo, the premier Lebanese air-peeled garlic supplier—we're excited to help elevate your restaurant's flavors with our premium quality garlic!",
+  "Welcome to Garliclo, your new partner in delivering fresh, air-peeled Lebanese garlic that will elevate your restaurant's flavors!"
+ ],
+ "Gemini 2.5 · temp 1.0 + top_k 1": [
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection meets your kitchen's demand for quality and convenience.",
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection saves you time and enhances every dish.",
+  "Welcome to Garliclo, the perfect partner for bringing authentic, high-quality Lebanese air-peeled garlic straight to your restaurant.",
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection frees you to focus on the artistry of your cuisine.",
+  "Welcome to the future of Lebanese garlic, where authentic flavor meets unprecedented convenience for your kitchen."
+ ],
+ "Gemini 2.5 · temp 1.0 + top_k 40": [
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection meets your culinary artistry.",
+  "Welcome to the future of Lebanese garlic, where freshness meets convenience and elevates your cuisine.",
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection promises to elevate every dish and simplify your kitchen.",
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection saves you time and enhances every dish.",
+  "Welcome to the future of Lebanese garlic, where Garliclo's air-peeled perfection promises to elevate every dish and simplify your kitchen."
+ ],
+ "Gemini 3.1-lite · temp 1.0 + top_k 1": [
+  "Welcome to the Garliclo family, where we’re ready to save your kitchen time and elevate your flavors with our premium, air-peeled Lebanese garlic.",
+  "Welcome to the future of your kitchen—where Garliclo’s premium, air-peeled Lebanese garlic delivers farm-fresh quality with zero prep time.",
+  "Welcome to Garliclo—discover the secret to elevating your kitchen with our premium, time-saving Lebanese air-peeled garlic.",
+  "Welcome to a new standard of efficiency—we are thrilled to help you elevate your kitchen with Garliclo’s premium, air-peeled Lebanese garlic.",
+  "Welcome to Garliclo—your new secret ingredient for labor-free, farm-fresh Lebanese garlic that saves your kitchen time without sacrificing authentic flavor."
+ ],
+ "Gemini 3.1-lite · temp 1.0 + top_k 40": [
+  "Welcome to Garliclo—we’re thrilled to help you elevate your kitchen with our premium, effortlessly air-peeled Lebanese garlic that saves you time without compromising on authentic flavor.",
+  "Welcome to Garliclo—discover the secret to elevating your Lebanese dishes with our premium, effortlessly air-peeled garlic.",
+  "Welcome to Garliclo—your new secret ingredient for labor-free, farm-fresh Lebanese garlic that saves your kitchen time without compromising on authentic, bold flavor.",
+  "Welcome to a new era of kitchen efficiency: we’re thrilled to help you elevate your menu with the convenience and authentic quality of Garliclo’s premium air-peeled Lebanese garlic.",
+  "Welcome to Garliclo—your new secret ingredient for authentic Lebanese flavor and effortless prep."
+ ]
+}
